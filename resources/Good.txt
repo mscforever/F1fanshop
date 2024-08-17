@@ -1,0 +1,8 @@
+Shirt,Ferrari,100.0,52
+Shirt,Mercedes,199.99,44
+Cap,McLaren,200.0,46
+Shirt,Ferrari,300.0,48
+Cap,Ferrari,400.0,50
+Jacket,Mercedes,400.0,48
+Jacket,McLaren,400.0,44
+Shirt,McLaren,100.0,46
